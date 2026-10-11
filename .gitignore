@@ -6,5 +6,4 @@ build
 T5/*
 !T5/*T5.cpp
 !T5/*T5.h
-!T5/*T5.exe
 !T5/*T5.doc
